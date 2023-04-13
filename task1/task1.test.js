@@ -9,11 +9,13 @@ test('"present" should be 7', () => {
 test('"Abdulaziz" should be 9', () => {
   expect(stringLength("Abdulaziz")).toBe(9);
 });
+
 test("more than expected", () => {
   expect(() => {
     stringLength("dsdsdsdsdsdsdsdsdsd");
   }).toThrow();
 });
+
 test("empty", () => {
   expect(() => {
     stringLength("");
