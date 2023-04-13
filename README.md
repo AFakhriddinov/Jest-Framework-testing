@@ -56,7 +56,7 @@ This project is about testing simple function with Jest Framwork
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
- ## 🚀 [Live Demo]()
+ ## 🚀 [Live Demo]
  N/A
 
 
